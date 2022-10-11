@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sanchay-Kumar
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ML projects
+- 👀 I’m interested in Blockchain 
+- 🌱 I’m currently learning Javascript, solidity & about web3
+- 💞️ I’m looking to collaborate on Blockchain projects
 - 📫 How to reach me "kumarsanch8@gmail.com"
 
 <!---
